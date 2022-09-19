@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1661418126 source:e:\amit\amit c project\simple database project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"simpleDB.h"
+
+1661371217 e:\amit\amit c project\simple database project\simpledb.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1661417329 source:e:\amit\amit c project\simple database project\simpledb.c
+	"simpleDB.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
